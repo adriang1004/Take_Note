@@ -1,38 +1,22 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
+    "title": "Monday",
+    "text": "Notes for class",
+    "id": "7b81"
   },
   {
-    "title": "test",
-    "text": "test1"
+    "title": "Tuesday",
+    "text": "additional notes\n",
+    "id": "c2ea"
   },
   {
-    "title": "tasd",
-    "text": "asdasd"
+    "title": "Thursday",
+    "text": "more notes here",
+    "id": "6835"
   },
   {
-    "title": "1",
-    "text": "1"
-  },
-  {
-    "title": "sdsd",
-    "text": "sdsd",
-    "id": "6c8a"
-  },
-  {
-    "title": "sds",
-    "text": "sdsdsd",
-    "id": "0083"
-  },
-  {
-    "title": "d",
-    "text": "d",
-    "id": "8d9a"
-  },
-  {
-    "title": "s",
-    "text": "s",
-    "id": "1d0d"
+    "title": "Friday",
+    "text": "Less notes 'cause it's friday!",
+    "id": "12be"
   }
 ]
