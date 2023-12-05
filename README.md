@@ -10,8 +10,8 @@ Take Note is a simple web application designed to help users efficiently manage 
 - [License](#license)
 
 ## Installation
-To install, clone the repository to your local machine. Navigate to the directory containing the project and run 'npm install' to install all the necessary dependencies. Be sure to include inquirer version 8.2.4 for collecting input from the user and use Jest for running the unit tests.
-
+Visit the deployed link to the page here to start taking notes! 
+To install, clone the repository to your local machine. Navigate to the directory containing the project and run 'node server.js' to listen on local machine.
 
 ![takenote](https://github.com/adriang1004/SVGLogo-Maker/assets/144719329/86a465e6-c1fd-41af-9947-b55fe3928f6a)
 
