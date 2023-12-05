@@ -10,7 +10,8 @@ Take Note is a simple web application designed to help users efficiently manage 
 - [License](#license)
 
 ## Installation
-Visit the deployed link to the page here to start taking notes! 
+Visit the deployed link to the ![page here](https://secret-atoll-81702-749578649982.herokuapp.com/) to start taking notes! 
+
 To install, clone the repository to your local machine. Navigate to the directory containing the project and run 'node server.js' to listen on local machine.
 
 ![takenote](https://github.com/adriang1004/SVGLogo-Maker/assets/144719329/86a465e6-c1fd-41af-9947-b55fe3928f6a)
