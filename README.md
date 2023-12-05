@@ -10,7 +10,7 @@ Take Note is a simple web application designed to help users efficiently manage 
 - [License](#license)
 
 ## Installation
-Visit the deployed link to the ![page here](https://secret-atoll-81702-749578649982.herokuapp.com/) to start taking notes! 
+Visit the [deployed link to the page by clicking here](https://secret-atoll-81702-749578649982.herokuapp.com/) to start taking notes now! 
 
 To install, clone the repository to your local machine. Navigate to the directory containing the project and run 'node server.js' to listen on local machine.
 
